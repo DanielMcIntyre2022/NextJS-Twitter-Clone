@@ -4,7 +4,7 @@ import {
     HashtagIcon,
     CollectionIcon,
     BookmarkIcon, 
-    DotCircleHorizontalIcon,
+    DotsCircleHorizontalIcon,
     MailIcon, 
     UserIcon,
     HomeIcon
@@ -21,6 +21,8 @@ function Sidebar() {
         <SidebarRow Icon={MailIcon} title={'Messages'}/>
         <SidebarRow Icon={BookmarkIcon} title={'Bookmarks'}/>
         <SidebarRow Icon={CollectionIcon} title={'Lists'}/>
+        <SidebarRow Icon={UserIcon} title={'Sign In'}/>
+        <SidebarRow Icon={DotsCircleHorizontalIcon} title={'More'}/>
     </div>
   )
 }
