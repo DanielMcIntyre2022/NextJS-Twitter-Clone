@@ -9,6 +9,5 @@
         }
       }
     ]
-  ],
-  "plugins": ["xwind/babel", "@emotion/babel-plugin"]
+  ]
 }
