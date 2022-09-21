@@ -9,7 +9,10 @@
     "@babel/runtime": "^7.19.0",
     "@emotion/react": "^11.10.4",
     "@heroicons/react": "^1.0.6",
+    "@portabletext/react": "^1.0.6",
+    "@sanity/image-url": "^1.0.1",
     "next": "latest",
+    "next-sanity": "^0.8.4",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-twitter-embed": "^4.0.4"
